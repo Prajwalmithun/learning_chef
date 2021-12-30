@@ -1,1 +1,3 @@
-# learning_chefThis repo is about Chef
+# learning_chef
+
+# This repo is about Chef
